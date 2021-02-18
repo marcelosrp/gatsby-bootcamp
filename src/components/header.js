@@ -46,8 +46,8 @@ const Header = () => {
             <Link 
               className={headerStyles.navItem} 
               activeClassName={headerStyles.activeNavItem} 
-              to="/about
-            ">
+              to="/about"
+            >
               About
             </Link>
           </li>
@@ -55,8 +55,8 @@ const Header = () => {
             <Link 
               className={headerStyles.navItem} 
               activeClassName={headerStyles.activeNavItem} 
-              to="/conta
-            ct">
+              to="/contact"
+            >
               Contact
             </Link>
           </li>
